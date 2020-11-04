@@ -1,10 +1,16 @@
+This project is something that i made while learing react, and experimenting with functional components as well as localstorage.
+the components are curnently not "functional" the projoect works but css is added by className, and not by styled.div or similar.(planing to fix/change this in the future) 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+## `npm start`
+works aswell.
 
-### `yarn start`
+### `yarn start` 
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
