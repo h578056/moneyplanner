@@ -1,0 +1,12 @@
+
+.posButton{
+  top: 50%;
+  position: relative;
+}
+.wrapper {
+  text-align: center;
+}
+.center {
+  margin: auto;
+  width: 50%;
+}
